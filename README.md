@@ -1,5 +1,8 @@
 # Thriftshop E-Commerce Website (Edited)
-Statuus - In Progress
+## 🚧 **Status: In Progress**
+
+![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-red?style=for-the-badge&logo=github)
+
 ## 📖 Overview
 This project began as a second-year coursework assignment using dummy data.  
 I am now improving it into a fully functional e-commerce web application that handles real requests, supports user interactions, and eliminates reliance on dummy data.  
