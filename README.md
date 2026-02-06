@@ -1,5 +1,4 @@
 # Thriftshop E-Commerce Website (Edited)
-## 🚧 **Status: In Progress**
 
 ![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-red?style=for-the-badge&logo=github)
 
