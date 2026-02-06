@@ -8,7 +8,7 @@ I am now improving it into a fully functional e-commerce web application that ha
 We are currently testing the application using **ngrok**, which provides temporary URLs for demo purposes.  
 Because ngrok generates a new link each time it runs, the live demo link may change.  
 
-[Click here to view the current deployed website](https://trigraphic-supereffectively-fidela.ngrok-free.dev)
+[Click here to view the current deployed website](https://trigraphic-supereffectively-fidela.ngrok-free.dev) http://127.0.0.1:5000
 
 *(This forwards to your local server at http://localhost:5000 while ngrok is running.)*
 
